@@ -10,9 +10,6 @@ def test_loggingDemo():
     formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
     filehandler.setFormatter(formatter)
     logger.addHandler(filehandler)  #filehandler object
-
-    #Θέτει το επίπεδο λάθους που θα δείξει. Ε΄άν θέσουμε warning, θα δείξει τα λάθη από το warning και κάτω.
-    logger.setLevel(logging.CRITICAL)
     
     logger.debug("A debug statement is executed") #Prints a message to the file
     logger.info("Information statement") #Prints the type of the error: info

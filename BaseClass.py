@@ -15,7 +15,7 @@ class BaseClass:
 
         logger.addHandler(fileHandler)  # filehandler object
 
-        logger.setLevel(logging.DEBUG)
+        logger.setLevel(logging.INFO)
         return logger
 
 
