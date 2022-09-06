@@ -3,13 +3,8 @@
 #Any code should be wrapped in method only
 import pytest
 
-
-
-#@pytest.mark.skip
 def test_firstProgram():
     print("Hello")
-
-
 
 @pytest.mark.xfail
 def test_SecondGreetCreditCard():
