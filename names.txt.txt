@@ -13,3 +13,10 @@ numbers
 2
 3
 4
+
+
+alphanumerics
+a1
+b2
+c3
+d4
