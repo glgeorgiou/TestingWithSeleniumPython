@@ -12,5 +12,6 @@ def test_SecondGreetCreditCard():
 
 #Pass as parameter the 'crossBrowser' method from conftest.py file.
 def test_crossBrowser(crossBrowser):
-    print(crossBrowser[1]) #Ο δείκτης 1
+    print(crossBrowser[0]) #Ο δείκτης 1
     print(crossBrowser[1])  #με την σειρά οι δείκτες 0,1,2
+    print(crossBrowser[2])  
