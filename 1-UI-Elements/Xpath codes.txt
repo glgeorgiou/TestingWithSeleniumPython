@@ -1,0 +1,2 @@
+# Xpath -  //tagname[@attribute='value'] -> //input[@type='submit']
+# CSS -  tagname[attribute='value'] -> //input[@type='submit'],  #id, .classname
