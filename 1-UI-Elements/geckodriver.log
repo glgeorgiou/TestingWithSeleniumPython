@@ -115,3 +115,166 @@ WebDriver BiDi listening on ws://127.0.0.1:58205
 DevTools listening on ws://127.0.0.1:58205/devtools/browser/fa6353eb-05dd-4915-a967-de6db5d0b756
 1702557559855	Marionette	INFO	Stopped listening on port 58212
 Dynamically enable window occlusion 1
+1703061759534	geckodriver	INFO	Listening on 127.0.0.1:49317
+1703061762613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4MCdKy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703061763370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703061763473	Marionette	INFO	Listening on port 49326
+Read port: 49326
+WebDriver BiDi listening on ws://127.0.0.1:49318
+1703061763582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49318/devtools/browser/864ff463-5934-4845-98e6-9ab349c6b2e7
+1703061795290	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703062283762	Marionette	INFO	Stopped listening on port 49326
+Dynamically enable window occlusion 1
+1703062291090	geckodriver	INFO	Listening on 127.0.0.1:49541
+1703062294139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileHqhGhW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703062294540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703062294619	Marionette	INFO	Listening on port 49551
+WebDriver BiDi listening on ws://127.0.0.1:49542
+Read port: 49551
+1703062294846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49542/devtools/browser/9590359a-1c67-48c8-8c61-e83272e55744
+1703062303339	Marionette	INFO	Stopped listening on port 49551
+Dynamically enable window occlusion 1
+1703062499786	geckodriver	INFO	Listening on 127.0.0.1:49694
+1703062502865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilethZTRY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703062503248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703062503330	Marionette	INFO	Listening on port 49704
+WebDriver BiDi listening on ws://127.0.0.1:49695
+Read port: 49704
+1703062503556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49695/devtools/browser/0f6a0133-a742-4c93-bf49-36dd71693948
+1703062533992	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703062591444	Marionette	INFO	Stopped listening on port 49704
+Dynamically enable window occlusion 1
+1703062592424	geckodriver	INFO	Listening on 127.0.0.1:49787
+1703062595499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileFmeEaJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703062595892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703062595974	Marionette	INFO	Listening on port 49796
+WebDriver BiDi listening on ws://127.0.0.1:49788
+Read port: 49796
+1703062596202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49788/devtools/browser/f707f95e-f56f-40bc-a3bd-63ea79d6d099
+1703062608846	Marionette	INFO	Stopped listening on port 49796
+Dynamically enable window occlusion 1
+1703062614303	geckodriver	INFO	Listening on 127.0.0.1:49850
+1703062617364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileAuUL0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703062617761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703062617843	Marionette	INFO	Listening on port 49860
+WebDriver BiDi listening on ws://127.0.0.1:49851
+Read port: 49860
+1703062618071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49851/devtools/browser/6daa432f-b61a-4b71-bca2-973d9a1b930f
+1703062626156	Marionette	INFO	Stopped listening on port 49860
+Dynamically enable window occlusion 1
+1703063071768	geckodriver	INFO	Listening on 127.0.0.1:50329
+1703063074847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50330" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile9k0uPq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703063075224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703063075305	Marionette	INFO	Listening on port 50338
+WebDriver BiDi listening on ws://127.0.0.1:50330
+Read port: 50338
+1703063075528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50330/devtools/browser/df469c43-6331-4146-96c3-071d2e58bc20
+1703063083311	Marionette	INFO	Stopped listening on port 50338
+Dynamically enable window occlusion 1
+1703063226856	geckodriver	INFO	Listening on 127.0.0.1:50544
+1703063229946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4fzdV4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703063230321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703063230400	Marionette	INFO	Listening on port 50554
+WebDriver BiDi listening on ws://127.0.0.1:50545
+Read port: 50554
+1703063230617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50545/devtools/browser/13234785-40e6-4888-a095-a00dd6717cd1
+1703063260538	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703063492721	Marionette	INFO	Stopped listening on port 50554
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileznNPkd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703063488124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703063488200	Marionette	INFO	Listening on port 50835
+WebDriver BiDi listening on ws://127.0.0.1:50826
+Read port: 50835
+1703063488422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50826/devtools/browser/efcccd05-d33a-472d-999c-81937e4e7649
+1703063518277	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+1703063522024	Marionette	INFO	Stopped listening on port 50835
+Dynamically enable window occlusion 1
+1703063530631	geckodriver	INFO	Listening on 127.0.0.1:50899
+1703063533698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEmFhEG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703063534062	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703063534138	Marionette	INFO	Listening on port 50909
+WebDriver BiDi listening on ws://127.0.0.1:50900
+Read port: 50909
+1703063534365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50900/devtools/browser/2249eaa8-837d-4033-babc-fd4f80edff38
+1703063546671	Marionette	INFO	Stopped listening on port 50909
+Dynamically enable window occlusion 1
+1703063755677	geckodriver	INFO	Listening on 127.0.0.1:51055
+1703063758737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilek1tQRl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703063759120	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703063759198	Marionette	INFO	Listening on port 51065
+WebDriver BiDi listening on ws://127.0.0.1:51056
+Read port: 51065
+1703063759417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51056/devtools/browser/13b94232-b5c2-423d-a29f-c3207c592508
+1703063789153	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1703063965293	Marionette	INFO	Stopped listening on port 51065
+Dynamically enable window occlusion 1

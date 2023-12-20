@@ -7,7 +7,7 @@ cDriver.get('https://the-internet.herokuapp.com/')
 print('Site title:', cDriver.title)
 # cDriver.close()
 """
-#TODO - Issue: Chrome closes automaticaly even though you don't close it by using code
+# TODO - Issue: Chrome closes automaticaly even though you don't close it by using code
 
 """
 """
