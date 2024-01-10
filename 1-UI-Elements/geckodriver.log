@@ -278,3 +278,30 @@ console.warn: services.settings: main/search-config-v2 Signature verified failed
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 1703063965293	Marionette	INFO	Stopped listening on port 51065
 Dynamically enable window occlusion 1
+1703065351644	geckodriver	INFO	Listening on 127.0.0.1:51553
+1703065354735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileuaDxqB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703065355527	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703065355628	Marionette	INFO	Listening on port 51561
+WebDriver BiDi listening on ws://127.0.0.1:51554
+Read port: 51561
+1703065355907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51554/devtools/browser/de31b027-bf76-4a4f-8e04-dad77bf1bbcc
+1703065364868	Marionette	INFO	Stopped listening on port 51561
+Dynamically enable window occlusion 1
+1704898119450	geckodriver	INFO	Listening on 127.0.0.1:50379
+1704898122625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileFywpeZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704898126457	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704898127464	Marionette	INFO	Listening on port 50391
+Read port: 50391
+WebDriver BiDi listening on ws://127.0.0.1:50380
+Read port: 50391
+1704898131174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50380/devtools/browser/560943ba-3f42-4469-a93e-728404222243
+1704898140402	Marionette	INFO	Stopped listening on port 50391
+Dynamically enable window occlusion 1
