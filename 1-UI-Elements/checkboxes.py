@@ -1,8 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from selenium.webdriver.support.select import Select
-
 # Firefox webdriver for herokuapp site
 fDriverHA = webdriver.Firefox()
 fDriverHA.get('https://the-internet.herokuapp.com/')
