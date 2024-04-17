@@ -10,7 +10,9 @@ fDriver.find_element(By.CSS_SELECTOR, "ul > li:nth-child(1) > button").click()
 # Switch to alert
 popup = fDriver.switch_to.alert
 popup.accept()
+# switch to driver
 result = fDriver.find_element(By.ID, 'result').text
+
 assert result == 'You successfully clicked an alert'
 
 
