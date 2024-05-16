@@ -122,3 +122,161 @@ console.warn: services.settings: main/cookie-banner-rules-list sync interrupted 
 console.warn: services.settings: main/sites-classification sync interrupted by shutdown
 console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
 console.error: (new AbortError("IndexedDB: main/public-suffix-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1715859743898	geckodriver	INFO	Listening on 127.0.0.1:52138
+1715859746962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileY0tAt0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715859747381	Marionette	INFO	Marionette enabled
+1715859747467	Marionette	INFO	Listening on port 52147
+Read port: 52147
+WebDriver BiDi listening on ws://127.0.0.1:52139
+1715859747549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52139/devtools/browser/f2b630b0-58d5-4f9e-ba45-159b58d561ba
+1715859774312	Marionette	INFO	Stopped listening on port 52147
+Dynamically enable window occlusion 1
+1715859779563	geckodriver	INFO	Listening on 127.0.0.1:52198
+1715859782746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile6n7s2q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715859783151	Marionette	INFO	Marionette enabled
+1715859783230	Marionette	INFO	Listening on port 52208
+WebDriver BiDi listening on ws://127.0.0.1:52199
+Read port: 52208
+1715859783424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52199/devtools/browser/535b6803-b584-4a51-9109-010b03022ecd
+1715859813832	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715859817135	Marionette	INFO	Stopped listening on port 52208
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/translations-models pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: (new Error("IndexedDB: main/newtab-wallpapers getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1715859887955	geckodriver	INFO	Listening on 127.0.0.1:52310
+1715859891027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileyauIwp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715859891440	Marionette	INFO	Marionette enabled
+1715859891520	Marionette	INFO	Listening on port 52320
+WebDriver BiDi listening on ws://127.0.0.1:52311
+Read port: 52320
+1715859891715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52311/devtools/browser/7da10a42-eed8-48ba-b317-0ecc23a8e6e1
+1715859912837	Marionette	INFO	Stopped listening on port 52320
+Dynamically enable window occlusion 1
+1715860122497	geckodriver	INFO	Listening on 127.0.0.1:52464
+1715860125557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQzpVNH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715860125949	Marionette	INFO	Marionette enabled
+1715860126038	Marionette	INFO	Listening on port 52474
+WebDriver BiDi listening on ws://127.0.0.1:52465
+Read port: 52474
+1715860126240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52465/devtools/browser/6dd5fdda-874a-4a5f-bb37-ee2495accc3c
+1715860138872	Marionette	INFO	Stopped listening on port 52474
+Dynamically enable window occlusion 1
+1715860217722	geckodriver	INFO	Listening on 127.0.0.1:52554
+1715860220802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiletZpSfX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715860221188	Marionette	INFO	Marionette enabled
+1715860221268	Marionette	INFO	Listening on port 52564
+WebDriver BiDi listening on ws://127.0.0.1:52555
+Read port: 52564
+1715860221490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52555/devtools/browser/4b101860-b141-4637-97c1-a43f155df28a
+1715860252940	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715860552330	Marionette	INFO	Stopped listening on port 52564
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTIs7sV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715860531059	Marionette	INFO	Marionette enabled
+1715860531142	Marionette	INFO	Listening on port 52760
+WebDriver BiDi listening on ws://127.0.0.1:52751
+Read port: 52760
+1715860531227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52751/devtools/browser/b0b915f9-3964-4395-9e89-7cb360bfe850
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715860551600	Marionette	INFO	Stopped listening on port 52760
+Dynamically enable window occlusion 1
+1715860785357	geckodriver	INFO	Listening on 127.0.0.1:52926
+1715860788426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilerqRqzO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715860788819	Marionette	INFO	Marionette enabled
+1715860788902	Marionette	INFO	Listening on port 52936
+WebDriver BiDi listening on ws://127.0.0.1:52927
+Read port: 52936
+1715860789123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52927/devtools/browser/eb228a8f-fcae-43bb-a190-97f6c2d6c807
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715860810653	Marionette	INFO	Stopped listening on port 52936
+Dynamically enable window occlusion 1
+1715861099654	geckodriver	INFO	Listening on 127.0.0.1:53137
+1715861102711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilepqZgFD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715861103118	Marionette	INFO	Marionette enabled
+1715861103200	Marionette	INFO	Listening on port 53147
+WebDriver BiDi listening on ws://127.0.0.1:53138
+Read port: 53147
+1715861103399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53138/devtools/browser/6c292b6e-e4de-4f1a-8198-a786d63b8914
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715861133214	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715861217599	Marionette	INFO	Stopped listening on port 53141715861220208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileHBVGZY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715861220599	Marionette	INFO	Marionette enabled
+1715861220685	Marionette	INFO	Listening on port 53249
+WebDriver BiDi listening on ws://127.0.0.1:53240
+Read port: 53249
+1715861220908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53240/devtools/browser/92752f35-0456-442b-a4f8-9feed2efcd80
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715861250620	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715861302678	Marionette	INFO	Stopped listening on port 53249
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezTpxlF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715861284955	Marionette	INFO	Marionette enabled
+1715861285040	Marionette	INFO	Listening on port 53330
+WebDriver BiDi listening on ws://127.0.0.1:53320
+Read port: 53330
+1715861285242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53320/devtools/browser/b3a2d850-a08b-425c-9bc2-91e7fee1508b
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715861301570	Marionette	INFO	Stopped listening on port 53330
+Dynamically enable window occlusion 1
+1715861504091	geckodriver	INFO	Listening on 127.0.0.1:53468
+1715861507168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileVwgUSD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715861507594	Marionette	INFO	Marionette enabled
+1715861507679	Marionette	INFO	Listening on port 53478
+WebDriver BiDi listening on ws://127.0.0.1:53469
+Read port: 53478
+1715861507908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53469/devtools/browser/23aead0f-8182-4f0b-8ae4-a99e61d602e3
+JavaScript error: https://wp-eshop.ggeorgiou.work/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=60c91d7c9ae3e7b1782f, line 8: Error: There is no route for the given namespace (/wc/store/v1) in the store
+1715861539300	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1715861622880	Marionette	INFO	Stopped listening on port 53478
+Dynamically enable window occlusion 1
