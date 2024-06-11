@@ -13,7 +13,7 @@ firefox_options.add_argument("Headless")  # Is it usefull?
 fDriver = webdriver.Firefox()
 fDriver.get('https://the-internet.herokuapp.com/abtest')
 
-# Header 3 text and make assertion
+# Header3 text and make assertion
 headerText = fDriver.find_element(By.TAG_NAME, 'h3').text
 print(f'The text of the header is: {headerText}')
 assert  headerText == 'A/B Test Variation 1'
