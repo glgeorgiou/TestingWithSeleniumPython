@@ -1857,3 +1857,27 @@ Read port: 59601
 DevTools listening on ws://127.0.0.1:59593/devtools/browser/f0b18cc7-366a-4024-b5ab-a38a63c2b660
 1717581256440	Marionette	INFO	Stopped listening on port 59601
 Dynamically enable window occlusion 1
+1729172899067	geckodriver	INFO	Listening on 127.0.0.1:61507
+1729172902151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEeMd5E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729172903002	Marionette	INFO	Marionette enabled
+1729172903175	Marionette	INFO	Listening on port 61518
+WebDriver BiDi listening on ws://127.0.0.1:61508
+Read port: 61518
+1729172903433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729172927699	Marionette	INFO	Stopped listening on port 61518
+Dynamically enable window occlusion 1
+1729172953614	geckodriver	INFO	Listening on 127.0.0.1:61545
+1729172956692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61546" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileXtHvcV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1729172957072	Marionette	INFO	Marionette enabled
+1729172957205	Marionette	INFO	Listening on port 61553
+WebDriver BiDi listening on ws://127.0.0.1:61546
+Read port: 61553
+1729172957400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1729173069734	Marionette	INFO	Stopped listening on port 61553
+Dynamically enable window occlusion 1
