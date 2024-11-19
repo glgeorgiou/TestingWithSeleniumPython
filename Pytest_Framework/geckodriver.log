@@ -1,0 +1,150 @@
+1732014463779	geckodriver	INFO	Listening on 127.0.0.1:57722
+1732014466867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileUjdbhv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014467730	Marionette	INFO	Marionette enabled
+1732014467914	Marionette	INFO	Listening on port 57731
+WebDriver BiDi listening on ws://127.0.0.1:57723
+Read port: 57731
+1732014468162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732014506346	Marionette	INFO	Stopped listening on port 57731
+Dynamically enable window occlusion 1
+1732014632191	geckodriver	INFO	Listening on 127.0.0.1:57757
+1732014635235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileiBlwlZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014635632	Marionette	INFO	Marionette enabled
+1732014635774	Marionette	INFO	Listening on port 57765
+WebDriver BiDi listening on ws://127.0.0.1:57758
+Read port: 57765
+1732014635978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+fB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:135
+gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
+
+1732014648707	Marionette	INFO	Stopped listening on port 57765
+Dynamically enable window occlusion 1
+1732014730828	geckodriver	INFO	Listening on 127.0.0.1:57803
+1732014733913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile9vIPi2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014734325	Marionette	INFO	Marionette enabled
+1732014734489	Marionette	INFO	Listening on port 57811
+WebDriver BiDi listening on ws://127.0.0.1:57804
+Read port: 57811
+1732014734690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+fB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:135
+gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
+
+1732014773036	Marionette	INFO	Stopped listening on port 57811
+Dynamically enable window occlusion 1
+1732014779327	geckodriver	INFO	Listening on 127.0.0.1:57846
+1732014782378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileRSBMjF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014782752	Marionette	INFO	Marionette enabled
+1732014782950	Marionette	INFO	Listening on port 57854
+WebDriver BiDi listening on ws://127.0.0.1:57847
+Read port: 57854
+1732014783125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732014790592	Marionette	INFO	Stopped listening on port 57854
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js, line 655: Script terminated by timeout at:
+B4@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:655:383
+E<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:126:43
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:159:492
+K</R<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:155:519
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:154:314
+C</this.next@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:369:57
+K</O<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:487
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:380
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:147:252
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:155:482
+E</A<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:103:86
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:154:314
+C</this.next@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:369:57
+K</O<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:487
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:380
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:147:252
+E<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:102:465
+g</f<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:490:51
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:154:314
+C</this.next@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:369:57
+K</O<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:487
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:157:380
+K<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:147:252
+g<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:489:457
+v</v<@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:568:446
+Za@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:748:59
+D@https://www.gstatic.com/recaptcha/releases/-ZG7BC9TxCVEbzIO2m429usb/recaptcha__en.js:504:103
+
+Dynamically enable window occlusion 1
+1732014811826	geckodriver	INFO	Listening on 127.0.0.1:57884
+1732014814903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileagWLzQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014815328	Marionette	INFO	Marionette enabled
+1732014815470	Marionette	INFO	Listening on port 57892
+WebDriver BiDi listening on ws://127.0.0.1:57885
+Read port: 57892
+1732014815667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+fB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:135
+gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1732014876791	Marionette	INFO	Stopped listening on port 57892
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
+1732014960939	geckodriver	INFO	Listening on 127.0.0.1:57936
+1732014963983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilelm0yvg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732014964404	Marionette	INFO	Marionette enabled
+1732014964554	Marionette	INFO	Listening on port 57944
+WebDriver BiDi listening on ws://127.0.0.1:57937
+Read port: 57944
+1732014964749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+fB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:135
+gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
+
+1732014981737	Marionette	INFO	Stopped listening on port 57944
+Dynamically enable window occlusion 1
+1732015457062	geckodriver	INFO	Listening on 127.0.0.1:58007
+1732015460125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58008" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileJx86Au"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732015460524	Marionette	INFO	Marionette enabled
+1732015460668	Marionette	INFO	Listening on port 58015
+WebDriver BiDi listening on ws://127.0.0.1:58008
+Read port: 58015
+1732015460870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+fB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:135
+gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
+
+1732015503437	Marionette	INFO	Stopped listening on port 58015
+Dynamically enable window occlusion 1

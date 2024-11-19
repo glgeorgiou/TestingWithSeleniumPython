@@ -1,14 +1,25 @@
 import pytest
 
 
-def test_SayHello():
-    print('Hello there')
+# Simple fixture
+@pytest.fixture()
+def setup():
+    print('I will be executed first')
+    yield
+    print('I will executed last')
 
 
-# @pytest.Mark.smoke # ToDo - Mark method does not have smoke and other attributes. Study pytest.
-def test_bool():
-    assert 4>3
+@pytest.mark.usefixtures("setup")
+class TestExample:
 
+    def test_fixtureDemo(self):
+        print("i will execute steps in fixtureDemo method")
 
-def test_book2():
-    assert -1<1
+    def test_fixtureDemo1(self):
+        print("i will execute steps in fixtureDemo1 method")
+
+    def test_fixtureDemo2(self):
+        print("i will execute steps in fixtureDemo2 method")
+
+    def test_fixtureDemo3(self):
+        print("i will execute steps in fixtureDemo3 method")
