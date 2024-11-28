@@ -1,14 +1,16 @@
 import pytest
 from selenium import webdriver
 
-# Firefox webdriver
-fDriver = webdriver.Firefox()
-
-
-@pytest.fixture()
-def setup():
+@pytest.fixture(scope="class")  # Χρησιμοποιούμε το scope "class" για να χρησιμοποιείται εντός class
+def setup(request):  # Εδώ διαχειριζόμαστε το driver
     print('Start Setup')
-    fDriver.get('https://www.ggeorgiou.gr/')
+    driver = webdriver.Firefox()
+    driver.get('https://www.ggeorgiou.gr/')
 
-    yield  # commands executed after the main test
-    print(' End Setup')
+    # Μοιράζουμε τον driver στα tests
+    request.cls.driver = driver
+
+    yield driver
+
+    print('End Setup')
+    driver.quit()
