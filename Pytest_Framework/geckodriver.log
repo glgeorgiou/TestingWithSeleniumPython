@@ -148,3 +148,215 @@ gB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:584:111
 
 1732015503437	Marionette	INFO	Stopped listening on port 58015
 Dynamically enable window occlusion 1
+1732786044874	geckodriver	INFO	Listening on 127.0.0.1:51599
+1732786047928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile7brdtD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732786048678	Marionette	INFO	Marionette enabled
+1732786048846	Marionette	INFO	Listening on port 51608
+WebDriver BiDi listening on ws://127.0.0.1:51600
+Read port: 51608
+1732786049121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+gB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:135
+hB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:111
+
+1732786179124	Marionette	INFO	Stopped listening on port 51608
+Dynamically enable window occlusion 1
+1732786230221	geckodriver	INFO	Listening on 127.0.0.1:51645
+1732786233284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileJssYiN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732786233674	Marionette	INFO	Marionette enabled
+1732786233808	Marionette	INFO	Listening on port 51653
+WebDriver BiDi listening on ws://127.0.0.1:51646
+Read port: 51653
+1732786234017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Error while calling actor 'inspector's method 'getHighlighterByType'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 162: Error: The target doesn't support creating highlighters by types or BoxModelHighlighter is unknown
+console.error: "Unable to find target with innerWindowId:12884901906"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:317:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:317:10
+
+console.error: "Unable to find target with innerWindowId:12884901913"
+console.error: "Unable to find target with innerWindowId:12884901913"
+console.error: "Unable to find target with innerWindowId:12884901913"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:12884901923"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Target already destroyed, unable to fetch children fronts"
+console.error: "getFront@resource://devtools/client/fronts/targets/target-mixin.js:235:15\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:58:47\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:203:30\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1618:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1732786962331	geckodriver	INFO	Listening on 127.0.0.1:51767
+1732786965412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileJt2VgO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732786965855	Marionette	INFO	Marionette enabled
+1732786965993	Marionette	INFO	Listening on port 51775
+WebDriver BiDi listening on ws://127.0.0.1:51768
+Read port: 51775
+1732786966173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 386: Script terminated by timeout at:
+Yl@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:386:728
+an@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:396:720
+OI/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:733:187
+h.xl/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:673:126
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:672:418
+
+1732786982726	Marionette	INFO	Stopped listening on port 51775
+Dynamically enable window occlusion 1
+1732787415368	geckodriver	INFO	Listening on 127.0.0.1:51825
+1732787418421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileqrWJnx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732787418793	Marionette	INFO	Marionette enabled
+1732787418989	Marionette	INFO	Listening on port 51833
+WebDriver BiDi listening on ws://127.0.0.1:51826
+Read port: 51833
+1732787419201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+gB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:135
+hB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:111
+
+1732787480732	Marionette	INFO	Stopped listening on port 51833
+Dynamically enable window occlusion 1
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732787425687	Marionette	INFO	Marionette enabled
+1732787425829	Marionette	INFO	Listening on port 51855
+WebDriver BiDi listening on ws://127.0.0.1:51847
+Read port: 51855
+1732787426028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732787469233	Marionette	INFO	Stopped listening on port 51855
+Dynamically enable window occlusion 1
+1732787480596	geckodriver	INFO	Listening on 127.0.0.1:51901
+1732787483649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51902" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileA2ywDh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732787484244	Marionette	INFO	Marionette enabled
+1732787484376	Marionette	INFO	Listening on port 51912
+WebDriver BiDi listening on ws://127.0.0.1:51902
+Read port: 51912
+1732787484575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 184: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:184:159
+gB@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:135
+hB/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:594:111
+
+1732787673190	Marionette	INFO	Stopped listening on port 51912
+Dynamically enable window occlusion 1
+ services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732787490786	Marionette	INFO	Marionette enabled
+1732787490924	Marionette	INFO	Listening on port 51934
+WebDriver BiDi listening on ws://127.0.0.1:51927
+Read port: 51934
+1732787491122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732787513808	Marionette	INFO	Stopped listening on port 51934
+Dynamically enable window occlusion 1
+1732788033656	geckodriver	INFO	Listening on 127.0.0.1:52010
+1732788036712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilenyTcjB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732788037248	Marionette	INFO	Marionette enabled
+1732788037541	Marionette	INFO	Listening on port 52018
+WebDriver BiDi listening on ws://127.0.0.1:52011
+Read port: 52018
+1732788037758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG, line 386: Script terminated by timeout at:
+Yl@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:386:749
+an@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:396:720
+OI/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:733:187
+h.xl/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:673:126
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-E423JL13RG:672:418
+
+1732788413700	Marionette	INFO	Stopped listening on port 52018
+Dynamically enable window occlusion 1
+tte	INFO	Marionette enabled
+1732788044163	Marionette	INFO	Listening on port 52044
+WebDriver BiDi listening on ws://127.0.0.1:52034
+Read port: 52044
+1732788044373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1732788064898	Marionette	INFO	Stopped listening on port 52044
+Dynamically enable window occlusion 1
