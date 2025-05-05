@@ -5,7 +5,7 @@ import pytest
 from selenium.webdriver.common.by import By
 
 
-@pytest.mark.usefixtures("setup")  # Fixture name "setu" will be used from the class.
+@pytest.mark.usefixtures("setup")  # Fixture name "setup" will be used from the class.
 class Test_GG_Site2:
 
     def test_search_term__html(self):
